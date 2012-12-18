@@ -1,5 +1,5 @@
 function onFormSubmit(e) {
-// First establish what each of the columns mean to you
+// First establish what each of the columns mean to you. Refference the columns by their index number with "e.values[foo]"
 var timestamp = e.values[0];
 var username = e.values[1];
 var feedbackName = e.values[2];
