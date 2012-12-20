@@ -6,7 +6,7 @@ HTML, Javascript, CSS, etc. It's not great but it's what I'm writing.
 Automail.js
 -----------
 This is my first bit of Javascript to actually be put into production. 
-It's pretty simple, and I stole most of it from [Alamoxie] (http://alamoxie.com/blog/tech-tips/sending-confirmation-emails-google-docs-form/)
+It's pretty simple, and I stole most of it from [Alamoxie] (http://alamoxie.com/blog/tech-tips/sending-confirmation-emails-google-docs-form/).
 The idea is, people submit data to the Google Docs Form web-interface, and one 
 of the answers is an email address (var feedbackName, the second question). 
 That answer address (and a few other answers) are then used to build the email 
