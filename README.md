@@ -3,7 +3,9 @@ r-webwork
 
 HTML, Javascript, CSS, etc. It's not great but it's what I'm writing.
 
-Automail.js is my first bit of Javascript to actually be put into production. 
+Automail.js
+-----------
+This is my first bit of Javascript to actually be put into production. 
 It's pretty simple, and I stole most of it from Alamoxie at 
 http://alamoxie.com/blog/tech-tips/sending-confirmation-emails-google-docs-form/
 The idea is, people submit data to the Google Docs Form web-interface, and one 
@@ -13,7 +15,9 @@ header. The var htmlBody is where the actual message goes, and it's only long
 because I don't know how to make a multi-line variable yet, and also because 
 legibility is for wimps. 
 
-Printosaurus happened much in the same way I'm sure many other projectos of the
+Printosaurus
+------------
+This happened much in the same way I'm sure many other projectos of the
 exact same type did: I came into work one morning and decided printing out a 
 Supplies Status page from every printer to check its toner level was dumb, 
 and I'd be better off looking at the embedded web server of each pritner. But 
