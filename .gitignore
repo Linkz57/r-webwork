@@ -1,0 +1,5 @@
+# Ignore (generated) c9save files
+*.c9save
+# Ignore picture files
+*.ico
+*.png
