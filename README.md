@@ -10,9 +10,7 @@ It's pretty simple, and I stole most of it from [Alamoxie] (http://alamoxie.com/
 The idea is, people submit data to the Google Docs Form web-interface, and one 
 of the answers is an email address (var feedbackName, the second question). 
 That answer address (and a few other answers) are then used to build the email 
-header. The var htmlBody is where the actual message goes, and it's only long
-because I don't know how to make a multi-line variable yet, and also because 
-legibility is for wimps. 
+header. The var htmlBody is where the actual message goes. It's kind of ugly in the way it spans 38 lines, but it used to be all stuck in one line and that was much worse.
 
 Printosaurus
 ------------
