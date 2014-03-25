@@ -1,0 +1,46 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain("www.rememberthemilk.com"){
+
+/*	rtmBare.css v1 */
+
+	div.appfooter {
+		display:none !important;
+	}
+	div#detailsbox {
+		display:none !important;
+	}
+	div#listtabs {
+		display:none !important;
+	}
+	div#tools {
+		display:none !important;
+	}
+	div#add-box {
+		display:none !important;
+	}
+	div#tools_spacer {
+		display:none !important;
+	}
+	div#appheader {
+		display:none !important;
+	}
+	div#break {
+		display:none !important;
+	}
+	div#statusbox {
+		display:none !important;
+	}
+/* 
+	body {
+		height:auto !important;
+		height:100% !important;
+		width:100% !important;
+		margin:0 auto !important;
+		padding:0 !important;
+		overflow:auto !important;
+		position:absolute !important;
+		
+	}
+*/
+
+}
