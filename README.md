@@ -25,3 +25,7 @@ have to have Apple Bonjour or something similar installed. I'm still waiting on
 an mDNS solution for Android, but even restricted to my desktop, this little bit
 of HTML has saved me a lot of time and paper. Here's a tip on finding the name 
 of a Dell printer: it's often "DEL" plus the MAC address.
+
+UserScripts
+-----------
+A collection of small, simple UserScripts designed to be used with the likes of Greasemonkey or [Stylish] (http://userstyles.org/users/261239)
