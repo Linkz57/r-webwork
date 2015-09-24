@@ -1,0 +1,37 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document domain("some redacted local address"){
+/*	glpiBare.css v1 */
+  
+div#c_ssmenu1 {
+    display:none !important;
+  }
+  
+div#c_recherche {
+    display:none !important;
+  }  
+  
+div#c_preference {
+    display:none !important;
+  }  
+  
+div#c_menu {
+    display:none !important;
+  }
+div#c_logo {
+    display:none !important;
+  }
+  
+td.tab_bg_2 {
+    display:none !important;
+  }
+  
+a#global_entity_select {
+    display:none !important;
+  }
+  
+/*  
+li:nth-child(2) {
+    display:none !important;
+  }
+}
+*/
