@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("some redacted local address"){
-/*	glpiBare.css v1 */
+/*	glpiBare.css v1.1 */
   
 div#c_ssmenu1 {
     display:none !important;
@@ -28,6 +28,11 @@ td.tab_bg_2 {
 a#global_entity_select {
     display:none !important;
   }
+  
+img.hideme {
+    display:none !important;
+  }
+  
   
 /*  
 li:nth-child(2) {
