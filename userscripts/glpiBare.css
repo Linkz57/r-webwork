@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("some redacted local address"){
-/*	glpiBare.css v1.1 */
+/*	glpiBare.css v1.2 */
   
 div#c_ssmenu1 {
     display:none !important;
@@ -17,10 +17,14 @@ div#c_preference {
 div#c_menu {
     display:none !important;
   }
+
 div#c_logo {
-    display:none !important;
+  width:230px !important;
+   height:62px !important;
+//   display:none !important;
+//    float:right !important;
   }
-  
+
 td.tab_bg_2 {
     display:none !important;
   }
@@ -33,7 +37,20 @@ img.hideme {
     display:none !important;
   }
   
+table {
+    font-size: 12px !important;
+  }
   
+#spansearchtypecriteriaConsumableItem0 {
+  width: 500px !important;
+  size: 300px !important;
+}
+  
+.tab_cadre_fixe {
+  height: 50px;
+}
+
+
 /*  
 li:nth-child(2) {
     display:none !important;
