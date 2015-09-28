@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("some redacted local address"){
-/*	glpiBare.css v1.2 */
+/*	glpiBare.css v1.3 */
   
 div#c_ssmenu1 {
     display:none !important;
@@ -19,7 +19,7 @@ div#c_menu {
   }
 
 div#c_logo {
-  width:230px !important;
+  width:250px !important;
    height:62px !important;
 //   display:none !important;
 //    float:right !important;
