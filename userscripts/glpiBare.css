@@ -50,6 +50,9 @@ table {
   height: 50px;
 }
 
+div#c_ssmenu2 a.here {
+  font-size: 5px;
+}
 
 /*  
 li:nth-child(2) {
