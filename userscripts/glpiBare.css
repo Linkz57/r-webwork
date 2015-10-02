@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 @-moz-document domain("some redacted local address"){
-/*	glpiBare.css v1.3 */
+/*	glpiBare.css v1.5 */
   
 div#c_ssmenu1 {
     display:none !important;
@@ -11,7 +11,7 @@ div#c_recherche {
   }  
   
 div#c_preference {
-    display:none !important;
+  display:none !important;
   }  
   
 div#c_menu {
@@ -21,13 +21,24 @@ div#c_menu {
 div#c_logo {
   width:250px !important;
    height:62px !important;
-//   display:none !important;
-//    float:right !important;
   }
 
 td.tab_bg_2 {
-    display:none !important;
+//    display:none;
+  font-weight:none !important;
   }
+  
+.pointer {
+  display:none !important;
+}
+  
+#s2id_dropdown_display_type1860122839 {
+  display:none !important;
+}
+  
+div#s2id_dropdown_glpilist_limit1908947162 {
+//  display:inline !important;
+}
   
 a#global_entity_select {
     display:none !important;
@@ -47,9 +58,13 @@ table {
 }
   
 .tab_cadre_fixe {
-  height: 50px;
+//  height: 50px;
 }
 
+.loadingindicator {
+  display:none !important;
+}
+  
 div#c_ssmenu2 a.here {
   font-size: 5px;
 }
