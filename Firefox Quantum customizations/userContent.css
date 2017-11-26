@@ -1,0 +1,21 @@
+@-moz-document url("about:newtab") {
+/* Thanks to Timzart7
+ * https://www.youtube.com/watch?v=BnaDi_df1eQ
+ */
+
+	body {
+		background-color: #000000 !important;
+	}
+	
+	.onboarding-opened {
+		visibility: hidden !important;
+	}
+	
+	#onboarding-overlay-button {
+		visibility: hidden !important;
+	}
+	
+}
+	
+
+
