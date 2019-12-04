@@ -41,6 +41,16 @@ html, body {
 }
 div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, p, blockquote, th, td {
     color: lightgrey;
+    font-family: Ubuntu;
+}
+.x-window-body-default {
+    /*"Task viewer" popup*/
+    font-family: Fixed !important;
+    color: white;   
+}
+.monitor{
+    /*CEPH main status list of onitors, on the main CEPH dashboard parent thing*/
+    font-family: Ubuntu !important;
 }
 input, textarea {
     background-color: gray !important;
